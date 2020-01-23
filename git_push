@@ -1,0 +1,6 @@
+# zapis zmian na serwer
+
+git add .
+git commit -m "opis"
+git remote add origin git@github.com:krzyyys/inzynierka.git
+git push -u origin master
